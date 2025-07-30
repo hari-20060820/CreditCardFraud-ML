@@ -64,7 +64,7 @@ To explore and run this project locally, follow these steps:
     ```
 
 3.  **Acquire the Dataset:**
-    * Download the `creditcard.csv` dataset. This dataset is publicly available on platforms like [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+    * Download the `creditcard.csv` dataset. This dataset is publicly available on platforms like [CSV](https://drive.proton.me/urls/A9TA7J3KMW#uK1FbfPHFXlv).
     * Place the `creditcard.csv` file directly into the root directory of your cloned repository.
 
 4.  **Run the Jupyter Notebook:**
