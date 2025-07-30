@@ -1,0 +1,10 @@
+Here is the content for your `requirements.txt` file:
+
+```
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+```
